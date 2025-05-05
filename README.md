@@ -9,14 +9,13 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </p>
   
-  <!-- Vídeo de Apresentação -->
-  <video src="Nike.mp4" controls width="800" style="border-radius: 10px; margin: 20px 0;"></video>
-  
   <!-- Imagens Desktop/Mobile -->
   <h2>📱 Responsive Design</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="desktop.png" alt="Versão Desktop" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="mobile.png" alt="Versão Mobile" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3>Desktop</h3>
+    <a href="https://github.com/EvandroJMoreira/nike/blob/main/assets/img/desktop.png" height=200px>
+    <h3>Mobile</h3>
+    <a href="https://github.com/EvandroJMoreira/nike/blob/main/assets/img/mobile.png" height=200px>
   </div>
   
   <!-- Descrição do Projeto -->
