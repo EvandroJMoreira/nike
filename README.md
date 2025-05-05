@@ -33,14 +33,7 @@
   <!-- Como Usar -->
   <h2>⚙️ Como Executar</h2>
   <div align="left" style="max-width: 800px; margin: 0 auto; background: #f5f5f5; padding: 15px; border-radius: 8px;">
-    <strong>1. Clone o repositório:</strong>
-    <pre><code>git clone https://github.com/EvandroJMoreira/nike.git</code></pre>
-    
-    <strong>2. Abra o projeto:</strong>
-    <pre><code>cd nike</code></pre>
-    
-    <strong>3. Execute o arquivo principal:</strong>
-    <pre><code>abra o index.html no navegador</code></pre>
+    <a href="https://evandrojmoreira.github.io/nike/">Clique aqui</a>
   </div>
   
   <!-- Roadmap -->
