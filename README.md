@@ -13,9 +13,9 @@
   <h2>📱 Responsive Design</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <h3>Desktop</h3>
-    <a href="https://github.com/EvandroJMoreira/nike/blob/main/assets/img/desktop.png" height=200px>
+    <img src="https://github.com/EvandroJMoreira/nike/blob/main/assets/img/desktop.png" height=200px>
     <h3>Mobile</h3>
-    <a href="https://github.com/EvandroJMoreira/nike/blob/main/assets/img/mobile.png" height=200px>
+    <img src="https://github.com/EvandroJMoreira/nike/blob/main/assets/img/mobile.png" height=200px>
   </div>
   
   <!-- Descrição do Projeto -->
